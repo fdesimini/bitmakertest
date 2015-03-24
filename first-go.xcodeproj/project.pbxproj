@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		399722DD1AC1E28300FB8621 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 399722DC1AC1E28300FB8621 /* main.m */; };
+		399722E51AC1E5F300FB8621 /* FrankFirstCLass.m in Sources */ = {isa = PBXBuildFile; fileRef = 399722E41AC1E5F300FB8621 /* FrankFirstCLass.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +26,8 @@
 /* Begin PBXFileReference section */
 		399722D91AC1E28300FB8621 /* first-go */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "first-go"; sourceTree = BUILT_PRODUCTS_DIR; };
 		399722DC1AC1E28300FB8621 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		399722E31AC1E5F300FB8621 /* FrankFirstCLass.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FrankFirstCLass.h; sourceTree = "<group>"; };
+		399722E41AC1E5F300FB8621 /* FrankFirstCLass.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FrankFirstCLass.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +61,8 @@
 			isa = PBXGroup;
 			children = (
 				399722DC1AC1E28300FB8621 /* main.m */,
+				399722E31AC1E5F300FB8621 /* FrankFirstCLass.h */,
+				399722E41AC1E5F300FB8621 /* FrankFirstCLass.m */,
 			);
 			path = "first-go";
 			sourceTree = "<group>";
@@ -118,6 +123,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				399722E51AC1E5F300FB8621 /* FrankFirstCLass.m in Sources */,
 				399722DD1AC1E28300FB8621 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
