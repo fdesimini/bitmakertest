@@ -11,6 +11,7 @@
 int main(int argc, const char * argv[]) {
     @autoreleasepool {
         int firstInt=20;
+        int secondInt=40;
         // insert code here...
         NSLog(@"Hello, World!");
     }
