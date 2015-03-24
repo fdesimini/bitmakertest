@@ -10,6 +10,7 @@
 
 int main(int argc, const char * argv[]) {
     @autoreleasepool {
+        int firstInt=20;
         // insert code here...
         NSLog(@"Hello, World!");
     }
